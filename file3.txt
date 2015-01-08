@@ -1,2 +1,7 @@
 aggiungo file3 dal ramo dev1
+<<<<<<< HEAD
 modifico il file3 dal ramo master
+=======
+modifico il file3 da dev1
+>>>>>>> dev1
+risolvo il conflitto ...
